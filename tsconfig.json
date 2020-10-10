@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "lib": [
+      "dom",
+      "ES6",
+      "scripthost",
+      "es2015.promise"
+    ]
+  },
+  "exclude": [
+    "Promise/node_modules"
+  ]
+}
